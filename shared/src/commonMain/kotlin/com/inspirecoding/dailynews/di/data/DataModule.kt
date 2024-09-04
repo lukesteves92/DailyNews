@@ -12,16 +12,20 @@ import org.koin.dsl.module
 val dataModule = module {
     single {
         ArticlesService(
-            httpClient = HttpClient {
-                install(ContentNegotiation) {
-                    json(Json {
-                        prettyPrint = true
-                        isLenient = true
-                        ignoreUnknownKeys = true
-                    })
-                }
-            }
+            httpClient = get()
         )
+    }
+
+    single<HttpClient> {
+        HttpClient {
+            install(ContentNegotiation) {
+                json(Json {
+                    prettyPrint = true
+                    isLenient = true
+                    ignoreUnknownKeys = true
+                })
+            }
+        }
     }
 
     factory<ArticlesRepository> {

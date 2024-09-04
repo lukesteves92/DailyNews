@@ -4,7 +4,7 @@
             "outputFile": "com.inspirecoding.dailynews.android.androidApp-mergeDebugResources-54:/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/Users/lucas.coelho/.gradle/caches/transforms-4/e976762eb905f5317b83639a01d0466c/transformed/appcompat-1.6.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "/Users/lucas.coelho/.gradle/caches/transforms-4/166b62adba46b297c1a48452403bb7a4/transformed/appcompat-1.6.1/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

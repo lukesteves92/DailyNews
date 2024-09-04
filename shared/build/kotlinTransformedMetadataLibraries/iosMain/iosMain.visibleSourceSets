@@ -1,3 +1,0 @@
-module org.jetbrains.kotlin:kotlin-stdlib:2.0.0 => commonMain
-module org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3 => nativeDarwinMain,nativeMain,concurrentMain,commonMain
-module org.jetbrains.kotlinx:atomicfu:0.21.0 => nativeMain,commonMain

@@ -1,1 +1,0 @@
-public protocol SkieSwiftFlowProtocol<Element>: _Concurrency.AsyncSequence where AsyncIterator == SkieSwiftFlowIterator<Element> { }

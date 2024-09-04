@@ -4,7 +4,7 @@
             "outputFile": "com.inspirecoding.dailynews.android.androidApp-mergeDebugResources-54:/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/lucas.coelho/.gradle/caches/transforms-4/e976762eb905f5317b83639a01d0466c/transformed/appcompat-1.6.1/res/values-land/values-land.xml",
+                    "source": "/Users/lucas.coelho/.gradle/caches/transforms-4/166b62adba46b297c1a48452403bb7a4/transformed/appcompat-1.6.1/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

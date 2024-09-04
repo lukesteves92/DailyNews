@@ -45,7 +45,7 @@ fun ArticlesScreen(
 ) {
 
     val viewState by rememberFlowWithLifecycle(articlesViewModel.articlesState)
-        .collectAsState(initial = ArticlesState(loading = false))
+        .collectAsState(initial = ArticlesState(loading = true))
 
     Articles(
         state = viewState

@@ -1,0 +1,148 @@
+[
+    {
+        "id": "6c68381b6df5a940cfb0baba81a6bc842c8ab29d3e7fb668f358dbedcc0d7d80",
+        "version": null,
+        "type": "BuiltIn",
+        "isExported": false,
+        "statistics": {
+            "exportedDeclarations": {
+                "classes": 10,
+                "callableMembers": 36
+            },
+            "exportableNonExportedDeclarations": {
+                "classes": 145,
+                "callableMembers": 1192
+            },
+            "nonExportableDeclarations": {
+                "classes": 192,
+                "callableMembers": 588
+            },
+            "overriddenCallableMembers": 1819,
+            "numberOfIrElements": 11511
+        }
+    },
+    {
+        "id": "a54cead7874f9288b233e70d9d3dccbc202b0382df5c9f4720a4f61798030d5a",
+        "version": "2.0.0",
+        "type": "Library",
+        "isExported": false,
+        "statistics": {
+            "exportedDeclarations": {
+                "classes": 0,
+                "callableMembers": 0
+            },
+            "exportableNonExportedDeclarations": {
+                "classes": 0,
+                "callableMembers": 0
+            },
+            "nonExportableDeclarations": {
+                "classes": 0,
+                "callableMembers": 0
+            },
+            "overriddenCallableMembers": 0,
+            "numberOfIrElements": 0
+        }
+    },
+    {
+        "id": "98415170bf351becced539801bd32398e5bcb3da4553162ea5b0d4f552dc70d6",
+        "version": "1.8.20",
+        "type": "Library",
+        "isExported": false,
+        "statistics": null
+    },
+    {
+        "id": "7cbcb8ba4a020f3990ce4a122ecc7028bfd8cd3dbba2a8db1c284a2aa5ea63aa",
+        "version": "1.8.20",
+        "type": "Library",
+        "isExported": false,
+        "statistics": null
+    },
+    {
+        "id": "19c0abd6752b1bf17fed8a428d0d8d1210d0db65938e4371d2dec8812f32c822",
+        "version": "1.7.3",
+        "type": "Library",
+        "isExported": false,
+        "statistics": {
+            "exportedDeclarations": {
+                "classes": 8,
+                "callableMembers": 10
+            },
+            "exportableNonExportedDeclarations": {
+                "classes": 18,
+                "callableMembers": 77
+            },
+            "nonExportableDeclarations": {
+                "classes": 7,
+                "callableMembers": 33
+            },
+            "overriddenCallableMembers": 190,
+            "numberOfIrElements": 1103
+        }
+    },
+    {
+        "id": "0c73991c9bd0022f4a7cddac8d84406b3459435f921e9e4e1f3d3b10f62090b0",
+        "version": "0.21.0",
+        "type": "Library",
+        "isExported": false,
+        "statistics": {
+            "exportedDeclarations": {
+                "classes": 0,
+                "callableMembers": 0
+            },
+            "exportableNonExportedDeclarations": {
+                "classes": 0,
+                "callableMembers": 0
+            },
+            "nonExportableDeclarations": {
+                "classes": 0,
+                "callableMembers": 0
+            },
+            "overriddenCallableMembers": 0,
+            "numberOfIrElements": 10
+        }
+    },
+    {
+        "id": "533c81d76f8acc5645bcd2ec19ca487aa4602b6943f02abaaf99b9be7534450f",
+        "version": null,
+        "type": "Local",
+        "isExported": true,
+        "statistics": {
+            "exportedDeclarations": {
+                "classes": 18,
+                "callableMembers": 24
+            },
+            "exportableNonExportedDeclarations": {
+                "classes": 0,
+                "callableMembers": 2
+            },
+            "nonExportableDeclarations": {
+                "classes": 3,
+                "callableMembers": 33
+            },
+            "overriddenCallableMembers": 118,
+            "numberOfIrElements": 579
+        }
+    },
+    {
+        "id": "ff1becca0df4f767141ae0f3446803add3b4d82806a4f4b4266aa88155e67b68",
+        "version": null,
+        "type": "Local",
+        "isExported": true,
+        "statistics": {
+            "exportedDeclarations": {
+                "classes": 5,
+                "callableMembers": 22
+            },
+            "exportableNonExportedDeclarations": {
+                "classes": 0,
+                "callableMembers": 7
+            },
+            "nonExportableDeclarations": {
+                "classes": 0,
+                "callableMembers": 3
+            },
+            "overriddenCallableMembers": 17,
+            "numberOfIrElements": 597
+        }
+    }
+]

@@ -1,0 +1,10 @@
+com.inspirecoding.dailynews.shared-lifecycle-viewmodel-ktx-2.8.4-0 /Users/lucas.coelho/.gradle/caches/transforms-4/0bd758ba91bd5cec6d23893e2138cefb/transformed/lifecycle-viewmodel-ktx-2.8.4/res
+com.inspirecoding.dailynews.shared-lifecycle-viewmodel-release-1 /Users/lucas.coelho/.gradle/caches/transforms-4/5b7c9360421b8ef2077bc696b98c8599/transformed/lifecycle-viewmodel-release/res
+com.inspirecoding.dailynews.shared-pngs-2 /Users/lucas.coelho/Documents/DailyNews/shared/build/generated/res/pngs/release
+com.inspirecoding.dailynews.shared-resValues-3 /Users/lucas.coelho/Documents/DailyNews/shared/build/generated/res/resValues/release
+com.inspirecoding.dailynews.shared-mergeReleaseResources-4 /Users/lucas.coelho/Documents/DailyNews/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.inspirecoding.dailynews.shared-mergeReleaseResources-5 /Users/lucas.coelho/Documents/DailyNews/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.inspirecoding.dailynews.shared-merged_res-6 /Users/lucas.coelho/Documents/DailyNews/shared/build/intermediates/merged_res/release
+com.inspirecoding.dailynews.shared-androidMain-7 /Users/lucas.coelho/Documents/DailyNews/shared/src/androidMain/res
+com.inspirecoding.dailynews.shared-main-8 /Users/lucas.coelho/Documents/DailyNews/shared/src/main/res
+com.inspirecoding.dailynews.shared-release-9 /Users/lucas.coelho/Documents/DailyNews/shared/src/release/res

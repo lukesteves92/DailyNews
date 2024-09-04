@@ -1,0 +1,2 @@
+
+<shared_commonMain>:*com.inspirecoding.dailynews.articles.model:*com.inspirecoding.dailynews.articles.state:.com.inspirecoding.dailynews.articles.viewmodel: com.inspirecoding.dailynews.base:$com.inspirecoding.dailynews.platform

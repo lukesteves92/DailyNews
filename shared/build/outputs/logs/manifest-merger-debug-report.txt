@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lucas.coelho/Documents/DailyNews/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11584405409656799444.xml:2:13-83
+INJECTED from /Users/lucas.coelho/Documents/DailyNews/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11584405409656799444.xml:2:13-83
+	package
+		INJECTED from /Users/lucas.coelho/Documents/DailyNews/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11584405409656799444.xml
+	xmlns:android
+		ADDED from /Users/lucas.coelho/Documents/DailyNews/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11584405409656799444.xml:2:23-81
+uses-sdk
+INJECTED from /Users/lucas.coelho/Documents/DailyNews/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11584405409656799444.xml reason: use-sdk injection requested
+INJECTED from /Users/lucas.coelho/Documents/DailyNews/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11584405409656799444.xml
+INJECTED from /Users/lucas.coelho/Documents/DailyNews/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11584405409656799444.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lucas.coelho/Documents/DailyNews/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11584405409656799444.xml
+	android:minSdkVersion
+		INJECTED from /Users/lucas.coelho/Documents/DailyNews/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11584405409656799444.xml

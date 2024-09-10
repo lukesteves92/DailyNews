@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.inspirecoding.dailynews.android.androidApp-mergeDebugResources-54:/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.inspirecoding.dailynews.android.androidApp-mergeDebugResources-58:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/lucas.esteves/.gradle/caches/transforms-4/166b62adba46b297c1a48452403bb7a4/transformed/appcompat-1.6.1/res/values-large-v4/values-large-v4.xml",
+                    "source": "/Users/lucas.esteves/.gradle/caches/transforms-4/f1eac4e8c201dc844e1d059222892dd9/transformed/appcompat-1.6.1/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

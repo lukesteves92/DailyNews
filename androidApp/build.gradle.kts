@@ -70,6 +70,9 @@ dependencies {
     implementation(libs.androidx.lifecycle.runtime.ktx)
     debugImplementation(libs.compose.ui.tooling)
 
+    //SwipeRefresh
+    implementation (libs.accompanist.swiperefresh)
+
     //Koin
     implementation(libs.koin.android)
     implementation(libs.koin.androidx.compose)

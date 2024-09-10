@@ -41,6 +41,7 @@ kotlin {
                 implementation(libs.ktor.serialization.kotlinx.json)
                 implementation(libs.kotlinx.datetime)
                 implementation(libs.koin.core)
+                implementation(libs.sql.coroutines.extensions)
             }
         }
 

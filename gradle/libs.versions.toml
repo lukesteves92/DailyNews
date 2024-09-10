@@ -42,6 +42,7 @@ ktor-client-darwin = { module = "io.ktor:ktor-client-darwin", version.ref = "kto
 
 kotlinx-datetime = { module = "org.jetbrains.kotlinx:kotlinx-datetime", version.ref = "kotlinxDatetime" }
 
+sql-coroutines-extensions = { module = "app.cash.sqldelight:coroutines-extensions", version.ref = "sqlDelight" }
 sql-native-driver = { module = "app.cash.sqldelight:native-driver", version.ref = "sqlDelight" }
 sql-android-driver = { module = "app.cash.sqldelight:android-driver", version.ref = "sqlDelight" }
 

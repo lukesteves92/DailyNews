@@ -1,7 +1,0 @@
-{
-    "jvmVersion": "17.0.10+11-LTS-240",
-    "compilerVersion": "2.0.0",
-    "xcodeVersion": "15.4",
-    "availableProcessors": 11,
-    "maxJvmMemory": 2147483648
-}

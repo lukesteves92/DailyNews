@@ -11,7 +11,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
 import com.inspirecoding.dailynews.android.theme.MyApplicationTheme
-import com.inspirecoding.dailynews.android.features.about.AboutScreen
+import com.inspirecoding.dailynews.android.features.about.view.AboutScreen
 import com.inspirecoding.dailynews.android.navigation.nav.Navigation
 import com.inspirecoding.dailynews.android.navigation.screen.Screen
 import com.inspirecoding.dailynews.platform.Platform

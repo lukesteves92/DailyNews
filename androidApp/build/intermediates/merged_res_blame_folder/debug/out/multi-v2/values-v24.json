@@ -4,7 +4,7 @@
             "outputFile": "com.inspirecoding.dailynews.android.androidApp-mergeDebugResources-54:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/lucas.coelho/.gradle/caches/transforms-4/166b62adba46b297c1a48452403bb7a4/transformed/appcompat-1.6.1/res/values-v24/values-v24.xml",
+                    "source": "/Users/lucas.esteves/.gradle/caches/transforms-4/166b62adba46b297c1a48452403bb7a4/transformed/appcompat-1.6.1/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

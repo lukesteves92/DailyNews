@@ -8,7 +8,7 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.inspirecoding.dailynews.android.features.about.AboutScreen
+import com.inspirecoding.dailynews.android.features.about.view.AboutScreen
 import com.inspirecoding.dailynews.android.features.articles.view.ArticlesScreen
 import com.inspirecoding.dailynews.android.navigation.manager.NavigationManager
 import com.inspirecoding.dailynews.android.navigation.manager.NavigationCommand
